@@ -8,6 +8,27 @@ Arduino Nano Mini Ultra Pequeno Tipo-C Placa De Desenvolvimento Atmega328p Chip 
 
 ![image](https://github.com/user-attachments/assets/2dfe554a-8053-442a-b3fe-2751bd58d134)
 
+Chip de controle principal: ATMEGA328P
+
+Chip USB chip: CH340G
+
+Tensão de entrada: USB 5V/DC6-12V
+
+Tensão de saída: 3.3V-5V
+
+Corrente de fornecimento máxima de 5V 5V: 1A
+
+Frequência de CPU de 16 MHz
+
+Porta analógica: 6(A0-A5)
+
+Porta Digital (IO-PWM): 14 (3/5/6/11 Suporte PWM
+
+Eventuação DO EEPROM[KB]: 1KBytes
+
+Spam[kb]: 2KBytes
+
+Flash[lb]: 32KBytes
 
 # Configurações da IDE
 ![image](https://github.com/user-attachments/assets/457cce0b-5ddc-49e8-91ae-4dbbf5436351)
