@@ -71,6 +71,10 @@ Em Loop:
   pixels.setPixelColor(0, 10, 0, 0); // (índice, vermelho, verde, azul)
   pixels.show();
 ```
+# Listar as portas (Linux)
+ls /dev/tty*
 
+# Liberar acesso a porta serial (Linux)
+sudo chmod a+rw /dev/ttyACM0
 
   
